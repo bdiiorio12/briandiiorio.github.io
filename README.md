@@ -12,10 +12,16 @@ Source files for the Cody & Koda author website, built as a static site for GitH
 - `assets/main.js` — mobile menu toggle
 - `images/` — book covers and site graphics
 
-## Before this site is finished, three things still need to be filled in:
+## Status
 
-1. **Amazon link** — in `book-watermelon-summer.html`, find `<a href="#" class="btn btn-primary">Buy on Amazon</a>` and replace the `#` with the real Amazon product link.
-2. **Newsletter signup form** — in `index.html`, find the `embed-slot` div near the bottom and replace it with the embed code from your MailerLite account.
-3. **Book 2 cover** — swap `images/book2-teaser.jpg` for the real front cover once it's finished (keep the filename the same, or update the `src` in `index.html` and `book-disappearing-act.html`).
+Done:
+- Book 1 Amazon buy link
+- Book 2 Amazon preorder link
+- Series link (Amazon)
+- Book 2 real cover art
 
-See the setup walkthrough from Brian's conversation with Claude for exactly how to do each of these.
+## One thing still needs to be filled in:
+
+**Newsletter signup form** — in `index.html`, find the `embed-slot` div near the bottom and replace it with the embed code from your MailerLite account.
+
+See the setup walkthrough from Brian's conversation with Claude for exactly how to do this.
