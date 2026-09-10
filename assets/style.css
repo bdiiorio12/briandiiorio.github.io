@@ -323,18 +323,24 @@ section { padding: 56px 0; }
   padding: 28px 26px;
 }
 
-.char-card .char-icon {
-  width: 54px;
-  height: 54px;
-  border-radius: 50%;
+.char-card .char-photo {
+  height: 230px;
+  margin: -28px -26px 18px -26px;
+  border-radius: var(--radius) var(--radius) 0 0;
   background: var(--cream-dark);
   display: flex;
-  align-items: center;
+  align-items: flex-end;
   justify-content: center;
-  margin-bottom: 16px;
+  overflow: hidden;
 }
 
-.char-card .char-icon svg { width: 30px; height: 30px; }
+.char-card .char-photo img {
+  height: 100%;
+  width: auto;
+  max-width: 100%;
+  object-fit: contain;
+  display: block;
+}
 
 .char-card h3 { margin-bottom: 4px; }
 
