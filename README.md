@@ -7,7 +7,7 @@ Source files for the Cody & Koda author website, built as a static site for GitH
 - `index.html` — home page (about, books, newsletter signup)
 - `characters.html` — Meet the Family
 - `book-watermelon-summer.html` — Book 1 detail page
-- `book-disappearing-act.html` — Book 2 detail page (coming soon)
+- `book-disappearing-act.html` — Book 2 detail page (live)
 - `assets/style.css` — all site styling
 - `assets/main.js` — mobile menu toggle
 - `images/` — book covers and site graphics
@@ -16,7 +16,7 @@ Source files for the Cody & Koda author website, built as a static site for GitH
 
 Done:
 - Book 1 Amazon buy link
-- Book 2 Amazon preorder link
+- Book 2 Amazon buy link (live)
 - Series link (Amazon)
 - Book 2 real cover art
 
